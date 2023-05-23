@@ -4,4 +4,7 @@ public class Cart{
 
     // more cart things
     //
+
+    // to check for duplication
+    // new changes
 }
